@@ -3,7 +3,7 @@
 The code for the paper "Dynamic link prediction by learning the representation of node-pair via graph neural networks". 
 if you use the code, please cite our paper.
 
-'''tex
+```latex
 @article{dong_dynamic_2024,
 title = {Dynamic link prediction by learning the representation of node-pair via graph neural networks},
 volume = {241},
@@ -16,4 +16,4 @@ month = may,
 year = {2024},	
 pages = {122685}
 }
-'''
+```
